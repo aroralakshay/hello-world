@@ -1,2 +1,3 @@
 # hello-world
-This repository is just to learn how git command work
+Lakshay Arora
+8680952
